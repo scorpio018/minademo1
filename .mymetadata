@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MinaDemo1"
+  id="myeclipse.1367544477703"
+  context-root="/MinaDemo1"
+  j2ee-spec="6.0"
+  archive="MinaDemo1.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
