@@ -8,6 +8,7 @@ import org.apache.mina.core.service.IoAcceptor;
 import org.apache.mina.core.service.IoConnector;
 
 import com.scorpio.filter.IMinaFilter;
+import com.scorpio.handler.ServerThread;
 import com.scorpio.service.IMinaService;
 import com.scorpio.service.impl.MinaServiceImpl;
 
